@@ -1,0 +1,11 @@
+C:\sharp\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.deps.json
+C:\sharp\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.dll
+C:\sharp\ColorConverter\ColorConverter\bin\Debug\net7.0\ColorConverter.pdb
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.AssemblyInfoInputs.cache
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.AssemblyInfo.cs
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.csproj.CoreCompileInputs.cache
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.dll
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\refint\ColorConverter.dll
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ColorConverter.pdb
+C:\sharp\ColorConverter\ColorConverter\obj\Debug\net7.0\ref\ColorConverter.dll
